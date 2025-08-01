@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGSL7YpxKrQNA/profile-displaybackgroundimage-shrink_350_1400/B56ZhmfHOBG4AY-/0/1754066090039?e=1756944000&v=beta&t=0SNUeAYjB9JReLhy5qZTRd-fnFk_1D9GMfDYZUQskNQ">
+<img src="https://drive.google.com/file/d/18POuecOOQzIVvtoxmID8IhmIQ0M8d7Em/view">
 <h1 align="center">Hi 👋, I'm Farhana Sufi</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
 
