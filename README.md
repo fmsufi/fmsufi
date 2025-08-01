@@ -1,4 +1,4 @@
-<img src="[https://www.facebook.com/photo?fbid=1120811846710063&set=a.118884196902838](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/527337134_1120811850043396_2849231337462953371_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFVkzKBzKttGcB3drELme8HhUOcr0GOOeGFQ5yvQY454Y5yPERZuJ9NqMc-HlzBeidHq_5iYElTyC7gxr2OMMc3&_nc_ohc=IcmWmsAMDmsQ7kNvwEhPV3O&_nc_oc=Adkpo7TZDVrAbEMiAlAF16SFVZBlvWDzDGX9t6dWjObfJ78wK011BCntvja1zDgQLaE&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=kaRNhV_tFKRqPLmR47Dbug&oh=00_AfRXDCIa05xpbj_hOGc2RTLUpMIINEYPW0WezkawHWmPRQ&oe=6892B4D4)">
+<img src="https://www.facebook.com/photo.php?fbid=1120811846710063&set=pb.100063437740882.-2207520000&type=3">
 <h1 align="center">Hi 👋, I'm Farhana Sufi</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
 
