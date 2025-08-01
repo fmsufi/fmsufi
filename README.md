@@ -1,4 +1,4 @@
-<img src="https://www.facebook.com/photo.php?fbid=1120811846710063&set=pb.100063437740882.-2207520000&type=3">
+<img src="https://drive.google.com/file/d/18POuecOOQzIVvtoxmID8IhmIQ0M8d7Em/view?usp=drive_link">
 <h1 align="center">Hi 👋, I'm Farhana Sufi</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
 
